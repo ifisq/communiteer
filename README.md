@@ -15,3 +15,9 @@ Communiteer was developed for the 2020 SHS Hackathon. It was designed as a websi
 [Jake Mayer](https://github.com/jmayerbsd)
 
 ### If you have any questions, please contact me via [Twitter](https://twitter.com/ifisq)
+
+![](https://i.imgur.com/g6eUo4v.jpg)
+![](https://i.imgur.com/3RVS092.png)
+![](https://i.imgur.com/Zp2eqws.png)
+![](https://i.imgur.com/ie1cvG8.png)
+![](https://i.imgur.com/3bIlUzL.png)
